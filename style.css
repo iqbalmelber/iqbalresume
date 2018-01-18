@@ -49,7 +49,7 @@ code {
   	box-shadow: 0 5px 10px 0 rgba(69, 129, 208, 0.12);
 }
 #avatarBlock {
-	width: 150px;
+	width: 130px;
 	max-height: 100px;
 	float: left;
 }
@@ -187,7 +187,7 @@ code {
 	#infoBlock {
 		margin-left: 0;
 		text-align: center;
-		min-height: 160px;
+
 	}
 	.print-download {
 		float: none;
