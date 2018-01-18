@@ -55,7 +55,7 @@ code {
 }
 #infoBlock {
 	margin-left: 151px;
-	min-height: 160px;
+	min-height: 140px;
 }
 .largeFont {
 	font-size: 20px;
@@ -142,6 +142,7 @@ code {
 	#resume {
 		margin: 0 auto;
 	}
+
 	.print-download {
 		float: none;
 		display: block;
@@ -177,6 +178,10 @@ code {
 	.smallFont {
 		font-size: 14px;
 	}
+
+	.avatarPhoto {
+		width: 150px;
+	}
 	#avatarBlock {
 		float: none;
 		display: block;
@@ -187,6 +192,7 @@ code {
 	#infoBlock {
 		margin-left: 0;
 		text-align: center;
+		margin-top: 90px;
 
 	}
 	.print-download {
