@@ -45,8 +45,8 @@ code {
 	max-width: 800px;
 	padding: 80px;
 	background: #fff;
-  border-radius: 5px;
-  box-shadow: 0 5px 10px 0 rgba(69, 129, 208, 0.12);
+  	border-radius: 5px;
+  	box-shadow: 0 5px 10px 0 rgba(69, 129, 208, 0.12);
 }
 #avatarBlock {
 	width: 150px;
@@ -55,7 +55,7 @@ code {
 }
 #infoBlock {
 	margin-left: 151px;
-	min-height: 80px;
+	min-height: 160px;
 }
 .largeFont {
 	font-size: 20px;
@@ -226,10 +226,10 @@ code {
 		width: 99px;
 	}
 	.sectionContent, #infoBlock {
-		margin-left: 100px;
+		margin-left: 150px;
 	}
 	.avatarPhoto {
-		width: 80px;
+		width: 150px;
 	}
 	.resume-title {
 		display: none;
