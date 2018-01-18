@@ -55,7 +55,7 @@ code {
 }
 #infoBlock {
 	margin-left: 151px;
-	min-height: 180px;
+	min-height: 160px;
 }
 .largeFont {
 	font-size: 20px;
@@ -187,6 +187,7 @@ code {
 	#infoBlock {
 		margin-left: 0;
 		text-align: center;
+		min-height: 160px;
 	}
 	.print-download {
 		float: none;
